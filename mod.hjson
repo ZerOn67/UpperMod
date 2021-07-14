@@ -1,0 +1,9 @@
+{
+    name: upp
+displayName: UpperMod
+    author: ZerOn67
+    description:
+    "Бета версия. Каллаб с Inferno Dinamiks Corporate"
+    minGameVersion: "105"
+    version: 1.0
+}
