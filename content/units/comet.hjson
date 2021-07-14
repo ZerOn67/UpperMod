@@ -1,0 +1,25 @@
+type: UnitEntity
+name: "Комета" 
+description: "Лёгкий крейсер-перехвадчик Комета. Отличная замена пожилому Друтику." 
+ speed: 2
+  flying: true 
+ health: 650
+ hitsize: 3
+ baseRotateSpeed: 0.3
+ rotateShooting: true
+ targetGround: true 
+ targetAir: true
+ weaponOffsetX: 4
+ weaponOffsety: 5
+   flying: true
+   weapons: [
+{
+name: comet-weapon
+reload: 10
+alternate: true 
+mirror: true 
+x: -4
+y: 6
+bullet: fragGlass
+} 
+]

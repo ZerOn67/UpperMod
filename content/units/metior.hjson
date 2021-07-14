@@ -1,0 +1,28 @@
+type: BuilderMinerUnit
+name: "Метеор" 
+description: "Лёгкий эсминец-штурмовик Метеор. Отличная замена пожилому Альфа."
+ speed: 3.5
+  flying: true 
+ health: 350
+ hitsize: 2
+ buildPower: 1
+ minePower: 6
+ itemCapacity:70
+ baseRotateSpeed: 1
+ rotateShooting: true
+ targetGround: true 
+ targetAir: true
+ weaponOffsetX: 4
+ weaponOffsety: 5
+   flying: true
+   weapons: [
+{
+name: metior-weapon
+reload: 10
+alternate: true 
+mirror: true 
+x: -4
+y: 5
+bullet: standardCopper
+} 
+]
