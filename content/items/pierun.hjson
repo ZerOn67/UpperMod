@@ -1,8 +1,0 @@
-type:material
-name: "Пиерун"
-description: "Горючий и радиоактивный материал. Сплав пиерита и урана"
-color: "#d99d73"
-radioactivity: 0.2
-explosiveness:0.1
-flammability:0.2
-hardness: 4

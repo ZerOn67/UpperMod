@@ -1,4 +1,0 @@
-type:OreBlock
-name: Пиерит
-itemDrop: pierit
-oreDefault:true

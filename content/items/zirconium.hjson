@@ -1,8 +1,0 @@
-type:material
-name: "Цирконий"
-description: "Один из самых устойчивых материалов. Используется в реконструкторах, цехах и ТВЭЛах."
-color: "#d99d73"
-radioactivity: 0.0
-explosiveness:0.0
-flammability:0.0
-hardness: 4

@@ -1,4 +1,0 @@
-type:OreBlock
-name:"Циркониевая руда"
-itemDrop: zirconium
-oreDefault:true

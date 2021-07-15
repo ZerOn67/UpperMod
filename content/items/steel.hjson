@@ -1,8 +1,0 @@
-{
-type: material
-name: Сталь
-color: "#9599A2"
-hardness: 10
-cost: 1
-alwaysUnlocked: true
-}
