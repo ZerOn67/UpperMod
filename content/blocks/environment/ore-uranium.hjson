@@ -1,0 +1,4 @@
+name: "Урановая руда",
+type: OreBlock,
+itemDrop: uranium,
+oreDefault: true

@@ -1,0 +1,9 @@
+type: PayloadRouter
+name: Маршрутизатор 4×4
+description: Большой маршрутизатор 4×4. 
+size: 4
+category: distribution
+requirements: [
+zirconium/10
+titanium/5
+]

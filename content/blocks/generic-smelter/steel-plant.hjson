@@ -1,0 +1,22 @@
+type:GenericSmelter
+name:"Сталеварный завод"
+description:"Сталь — это сплав железа и углерода, но вместо железа можно взять свинец."
+outputItem:steel/1
+size:3
+hasPower:true
+hasItems:true
+craftTime:60
+updateEffect:steam
+itemCapacity:20
+consumes:{
+power:0.8
+items:{items:[
+graphite/1
+lead/3
+]}}
+requirements:[
+copper/30
+lead/25
+]
+category:crafting
+research: kiln
