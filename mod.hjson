@@ -1,9 +1,11 @@
-{
-    name: upp
-displayName: UpperMod
-    author: ZerOn67
-    description:
-    "Бета версия. Каллаб с Inferno Dinamiks Corporate"
-    minGameVersion: "105"
-    version: 1.0
-}
+name: upp
+displayName:[lime]Upper[accent]Mod
+author: ZerOn67 & SuperJaba2000
+description:
+"[red]BETA VERSION!!!\n\n
+
+[accent] Collaboration for [blue]Inferno Dinamics Corporation.\n
+[accent]Autors:[green]ZerOn67,SuperJaba2000[]\n
+using planet-library from SuperJaba2000"
+minGameVersion: "126.2"
+version: pre-alpha 0.1
