@@ -1,0 +1,25 @@
+type:GenericSmelter
+name:"Завод чертежей Булат"
+description:"Центр по производству чертежей фракции Булат. С помощью этих чертежей открывается почти весь контент этой фракции."
+outputItem: drawing-bulat/1
+size:5
+hasPower:true
+hasItems:true
+craftTime: 1200
+updateEffect:steam
+itemCapacity:20
+consumes:{
+power:1
+items:{items:[
+steel/2
+copper/4
+pierit/1
+]}}
+requirements:[
+copper/ 200
+titanium/ 150
+thorium/ 80
+steel/ 50
+]
+category:crafting
+research: router
