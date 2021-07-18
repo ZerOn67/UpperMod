@@ -1,13 +1,16 @@
 {
 name: upp
-displayName:[lime]Upper[accent]Mod
+displayName:Upper Mod
 author: ZerOn67 & SuperJaba2000
 description:
+
 "[red]BETA VERSION!!!\n\n
 
-[accent] Collaboration for [blue]Inferno Dinamics Corporation.\n
-[accent]Autors:[green]ZerOn67,SuperJaba2000[]\n
+Collaboration for Inferno Dinamics Corporation.\n
+Autors:ZerOn67,SuperJaba2000\n\n
+
 using planet-library from SuperJaba2000"
+
 minGameVersion: "126.2"
-version: pre-alpha 0.1
+version: 0.1 pre-alpha
 }
